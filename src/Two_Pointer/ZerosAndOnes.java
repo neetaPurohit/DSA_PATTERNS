@@ -66,7 +66,7 @@ public class ZerosAndOnes {
     public static void printArr(int[] arr){
         int n = arr.length;
         for(int i :  arr){
-            System.out.println(i + " ");
+            System.out.print(i + " ");
         }
     }
 }
